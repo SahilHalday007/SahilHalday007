@@ -1,22 +1,18 @@
-<!-- 
-  GitHub profile README
-  Setup: create a PUBLIC repo named exactly your GitHub username, put this file at its root as README.md.
-  Before publishing, search this file for YOUR_USERNAME and the other placeholders (links, email) and replace them.
--->
+<!-- GitHub profile README for SahilHalday007 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Hi%2C%20I'm%20Sahil&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20ML%20%C2%B7%20Product%20Designer&descSize=18&descAlignY=58" alt="Hi, I'm Sahil" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Hi%2C%20I'm%20Sahil&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Embedded%20Systems%20%26%20AI%20Engineer%20%C2%B7%20Full-stack%20Developer%20%C2%B7%20Technical%20Trainer&descSize=17&descAlignY=59" alt="Hi, I'm Sahil" width="100%" />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=4F46E5&center=true&vCenter=true&width=640&lines=Building+accessible+learning+tools+for+children;Full-stack+engineer+%C2%B7+React+%2B+TypeScript+%2B+Python;Turning+AI+into+products+people+actually+use;Based+in+Tanzania+%F0%9F%87%B9%F0%9F%87%BF" alt="Typing animation" />
+<a href="https://github.com/SahilHalday007">
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=4F46E5&center=true&vCenter=true&width=680&lines=Building+inclusive+learning+experiences;Connecting+AI%2C+software%2C+and+physical+computing;Turning+prototypes+into+useful+products;Based+in+Tanzania+%F0%9F%87%B9%F0%9F%87%BF" alt="Typing animation" />
 </a>
 
 <br/>
 
 ![Location](https://img.shields.io/badge/Based%20in-Tanzania%20🇹🇿-0f172a?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-EdTech%20%26%20Accessibility-4f46e5?style=for-the-badge)
-![Open](https://img.shields.io/badge/Open%20to-Collaboration-06b6d4?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20EdTech%20%7C%20AR-4f46e5?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-06b6d4?style=for-the-badge)
 
 </div>
 
@@ -24,69 +20,77 @@
 
 ## 👋 About me
 
-I'm a **software engineer and AI/ML engineer** who cares as much about how a product *feels* as how it's built. I design the interface, write the frontend, build the API and wire up the intelligence behind it, so an idea can go from sketch to something people can actually use.
+I'm an **Embedded Systems and AI Engineer and technical trainer** based in Tanzania. My work spans full-stack software, AI-powered applications, educational technology, augmented reality, computer vision, and hardware-connected experiences.
 
-Most of my work sits at the intersection of **education, accessibility and local context**: platforms for Tanzanian learners that are inclusive by default, work with physical input devices as well as touchscreens, and speak the language (literally, in Swahili) of the people using them.
+I enjoy connecting the whole stack: thoughtful user interfaces, reliable APIs, data systems, analytics, and experiments that bring software into the physical world. I care about building technology that solves practical problems and works for the people and environments it is designed for.
 
-- 🎮 Building **SensePlay**, a cognitive skills game platform for children
-- 🌍 Developing for **TOIO** (Tanzania Open Innovation Organization)
-- 🧠 Exploring adaptive learning, LLM-generated insights and Universal Design for Learning
-- ♿ Obsessed with accessible, inclusive UI that works for children with diverse learning profiles
+- 🎮 **SensePlay:** building an inclusive learning-through-play platform for children.
+- 🌍 **TOIO:** contributing to technology, education, and innovation work at the Tanzania Open Innovation Organisation.
+- 🧠 **Applied AI:** exploring gameplay analytics, adaptive experiences, and AI-assisted reporting.
+- 🕶️ **AR and computer vision:** experimenting with location-based experiences and interactive vision-driven projects.
+- 🔌 **Embedded systems:** connecting software to physical inputs and devices, including accessible game controls.
 
 ---
 
-## 🚀 What I'm working on
+## 🚀 Current focus: SensePlay
 
-### 🎮 SensePlay: cognitive skills games for children
-A game platform that trains memory, attention, reasoning and reaction speed, designed so that every child can take part, whatever their abilities or input device.
+SensePlay is a learning-through-play platform designed to help children practise skills such as memory, attention, reasoning, sequencing, and reaction speed. The product work brings together engaging game experiences, accessibility, gameplay telemetry, and analytics that can help educators and families understand progress.
 
-| | |
+A few areas I'm exploring:
+
+| Area | Direction |
 |---|---|
-| **Adaptive difficulty** | Games adjust to each child instead of sorting them into rigid age groups (UDL-first design) |
-| **Accessible input** | Unified keyboard, mouse, touch and **MaKey MaKey** support through custom navigation hooks |
-| **Game library** | ColorFlash, QuickMath, ReactionTap, StorySequence, PatternPuzzle, SpotDifference, TowerOfLogic, Accessible Simon and more |
-| **AI insights** | LLM-generated session reports for educators and parents, backed by an analytics engine |
-| **Local context** | Swahili localization and a toddler game suite |
+| **Inclusive interaction** | Designing for keyboard, touch, and physical-input experiments such as MaKey MaKey. |
+| **Game experiences** | Building short, replayable activities around memory, patterns, logic, language, and reaction. |
+| **Analytics** | Turning gameplay events into useful progress measures and understandable reports. |
+| **Responsible AI** | Using AI to explain patterns and support reflection—not as a substitute for educator judgement or a clinical diagnosis. |
+| **Local context** | Keeping accessibility, language, device constraints, and real classroom conditions in mind. |
 
 ---
 
-## 🧩 Featured projects
+## 🧩 Selected public projects
 
-| Project | What it is | Stack |
+These links point to public repositories so you can explore the code.
+
+| Project | What it does | Technologies |
 |---|---|---|
-| **[SensePlay](https://github.com/YOUR_USERNAME/REPO_NAME)** | Accessible cognitive skills game platform for children | React · TypeScript · Node.js · PostgreSQL |
-| **[SensePlay Analytics Engine](https://github.com/YOUR_USERNAME/REPO_NAME)** | Microservice that turns play sessions into insights and AI-written reports | FastAPI · PostgreSQL + pgvector · Celery · Redis · Groq |
-| **[TOIO Website](https://github.com/YOUR_USERNAME/REPO_NAME)** | Website for the Tanzania Open Innovation Organization with animated, interactive UI | Next.js · React |
-| **[TRA VFD Receipt System](https://github.com/YOUR_USERNAME/REPO_NAME)** | Tax-compliant receipt generation for a business management app | React · TypeScript |
-
-> 💡 *Swap the links above for your real repos, and delete any row you'd rather not show publicly.*
+| [**TOIO Games**](https://github.com/SahilHalday007/toio_games) | An education and STEM-games codebase organised across games, web, analytics, server, and hardware modules. | React · JavaScript · Web · Hardware |
+| [**SensePlay Analytics Engine**](https://github.com/SahilHalday007/senseplay_analytics_engine) | A Python service for analysing educational gameplay data and producing analytics and AI-assisted narrative reports. | Python · FastAPI · PostgreSQL · pgvector · Celery · Redis · Groq |
+| [**FabLab Management System**](https://github.com/SahilHalday007/fablab-management-system) | A web application project for digital workflows and management in a fabrication-lab context. | React · TypeScript · Vite · Tailwind CSS · Supabase |
+| [**TOIO Edugame**](https://github.com/SahilHalday007/TOIO-Edugame) | An interactive quiz-game prototype built around a tug-of-war arena concept. | React · TypeScript · Vite · Tailwind CSS · Framer Motion |
+| [**Geospatial AR**](https://github.com/SahilHalday007/Geospatial-AR) | A browser-based, location-aware augmented-reality prototype using GPS coordinates. | JavaScript · A-Frame · AR.js · Web APIs |
+| [**PDF-to-Quiz Generator**](https://github.com/SahilHalday007/quiz_generator) | A small tool that extracts text from PDFs and generates multiple-choice quiz questions from key terms. | Python · Streamlit · PyPDF2 · scikit-learn |
+| [**OpenCV Game Development**](https://github.com/SahilHalday007/OpenCV_game_development) | Computer-vision experiments and interactive-game prototypes. | OpenCV · Computer Vision · Interactive Games |
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Technologies I work with
 
 <div align="center">
 
-**Frontend & Design**
+**Frontend & product interfaces**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,tailwind&theme=dark" alt="React, TypeScript, JavaScript, Next.js, HTML, CSS, Tailwind CSS" />
 
-**Backend & APIs**
+**Backend, APIs & AI**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" alt="Node.js, Express, Python, FastAPI" />
 
-**Data & Infrastructure**
+**Data & delivery**
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,vercel,git,github&theme=dark" alt="Data and infrastructure" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,vercel,git,github&theme=dark" alt="PostgreSQL, Supabase, Redis, Vercel, Git, GitHub" />
+
+**Computer vision & hardware**
+
+<img src="https://skillicons.dev/icons?i=opencv,arduino&theme=dark" alt="OpenCV and Arduino" />
 
 <br/>
 
-![Render](https://img.shields.io/badge/Render-0f172a?style=flat-square&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0f172a?style=flat-square&logo=railway&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-0f172a?style=flat-square&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-0f172a?style=flat-square&logo=celery&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-0f172a?style=flat-square&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM%20Integration-4f46e5?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-0f172a?style=flat-square&logoColor=white)
+![AR.js](https://img.shields.io/badge/AR.js-4f46e5?style=flat-square&logoColor=white)
+![A-Frame](https://img.shields.io/badge/A--Frame-06b6d4?style=flat-square&logoColor=white)
 
 </div>
 
@@ -94,35 +98,25 @@ A game platform that trains memory, attention, reasoning and reaction speed, des
 
 ## 🎨 How I build
 
-Good software is a design problem and an engineering problem at the same time. These are the principles I keep coming back to:
-
-1. **Accessible by default.** Keyboard, screen reader, switch and physical-device input are part of the first design, not a patch added later.
-2. **Design for the real user.** A child on a shared school computer in Dodoma has different needs from a developer on fast fibre. I build for the first one.
-3. **Polish is part of the spec.** Spacing, typography, motion and loading states are what make a product feel trustworthy.
-4. **Ship it, then harden it.** Clean architecture, proper error handling and deployments that don't fall over on a Monday morning.
-5. **AI should earn its place.** I use LLMs where they make a product measurably more useful, such as clear session reports or adaptive experiences, and not as decoration.
+1. **Start with the user and environment.** A good solution accounts for accessibility, connectivity, available devices, language, and context.
+2. **Treat accessibility as a design constraint from day one.** Input options and clear feedback should be considered early, not tacked on at the end.
+3. **Connect design to engineering.** Interaction details, loading states, error handling, data quality, and maintainable architecture all matter.
+4. **Use AI with a purpose.** AI belongs where it adds useful analysis or assistance, with clear limits and human judgement still in the loop.
+5. **Build, test, learn, improve.** I value practical prototypes, feedback, and steadily hardening the parts that prove useful.
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SahilHalday007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub statistics" />
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</picture>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilHalday007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most used languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=SahilHalday007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
@@ -130,17 +124,16 @@ Good software is a design problem and an engineering problem at the same time. T
 
 ## 🤝 Let's connect
 
-I'm open to collaborations on **edtech, accessibility, AI-powered products and full-stack builds**. If you're working on something that helps people learn, I'd love to hear about it.
+I'm interested in collaborating on **educational technology, accessible software, applied AI, computer vision, AR, embedded systems, and useful full-stack products**.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Say%20hello-4f46e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-4f46e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil@toio.or.tz)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilHalday007)
 
 <br/>
 
-*Building tools that help every child learn, in their own way and in their own language.* 🌍
+*Building practical technology where learning, intelligence, and interaction meet.* 🌍
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=100&section=footer" alt="" width="100%" />
 
