@@ -12,7 +12,7 @@
 <br/>
 
 ![Location](https://img.shields.io/badge/Based%20in-Tanzania%20🇹🇿-0f172a?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20EdTech%20%7C%20EmbeddedSystems-4f46e5?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20EdTech%20%7C%20Embedded-Systems-4f46e5?style=for-the-badge)
 ![Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-06b6d4?style=for-the-badge)
 
 </div>
