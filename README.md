@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Hi%2C%20I'm%20Sahil&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Embedded%20Systems%20%26%20AI%20Engineer%20%C2%B7%20Full-stack%20Developer%20%C2%B7%20Technical%20Trainer&descSize=17&descAlignY=59" alt="Hi, I'm Sahil" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=200&section=header&text=Hi%2C%20I'm%20Sahil&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Embedded%20Systems%20%26%20AI%20Engineer%20%C2%B7%20Full-stack%20Developer%20%C2%B7%20Technical%20Trainer&descSize=17&descAlignY=59" alt="Hi, I'm Sahil" width="100%" />
+-->
 
 <a href="https://github.com/SahilHalday007">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1400&color=4F46E5&center=true&vCenter=true&width=680&lines=Building+inclusive+learning+experiences;Connecting+AI%2C+software%2C+and+physical+computing;Turning+prototypes+into+useful+products;Based+in+Tanzania+%F0%9F%87%B9%F0%9F%87%BF" alt="Typing animation" />
