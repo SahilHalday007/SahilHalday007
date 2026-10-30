@@ -75,15 +75,15 @@ These links point to public repositories so you can explore the code.
 
 **Backend, APIs & AI**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark" alt="Node.js, Express, Python, FastAPI" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi&theme=dark" alt="Node.js, Express, Python, FastAPI" />
 
 **Data & delivery**
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,vercel,git,github&theme=dark" alt="PostgreSQL, Supabase, Redis, Vercel, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,docker,git,github&theme=dark" alt="PostgreSQL, Supabase, Redis, Vercel, Git, GitHub" />
 
 **Computer vision & hardware**
 
-<img src="https://skillicons.dev/icons?i=opencv,arduino&theme=dark" alt="OpenCV and Arduino" />
+<img src="https://skillicons.dev/icons?i=opencv,c,cpp,arduino&theme=dark" alt="OpenCV and Arduino" />
 
 <br/>
 
