@@ -87,11 +87,13 @@ These links point to public repositories so you can explore the code.
 
 <br/>
 
-![Celery](https://img.shields.io/badge/Celery-0f172a?style=flat-square&logo=celery&logoColor=white)
+<!--![Celery](https://img.shields.io/badge/Celery-0f172a?style=flat-square&logo=celery&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-0f172a?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-0f172a?style=flat-square&logoColor=white)
 ![AR.js](https://img.shields.io/badge/AR.js-4f46e5?style=flat-square&logoColor=white)
 ![A-Frame](https://img.shields.io/badge/A--Frame-06b6d4?style=flat-square&logoColor=white)
+
+-->
 
 </div>
 
@@ -122,12 +124,13 @@ These links point to public repositories so you can explore the code.
   <img
     src="./profile/streak.svg"
     alt="Sahil's GitHub Streak Statistics"
+    width="600"
   />
 </a>
 
 <br/></br>
 <img 
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahilHalday007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahilHalday007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=450"
   width="450"
   alt="Top Languages"
 />
