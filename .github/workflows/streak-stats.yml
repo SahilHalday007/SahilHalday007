@@ -1,0 +1,45 @@
+
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    # Run every day at 03:00 UTC (06:00 Tanzania time)
+    - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate streak statistics
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: >-
+            user=SahilHalday007&theme=violet-punch&hide_border=true&border_radius=3.4&ring=EB0000&fire=EB0000&timezone=Africa%2FDar_es_Salaam
+          path: profile/streak.svg
+
+      - name: Commit updated streak card
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/streak.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to streak statistics."
+          else
+            git commit -m "chore: update GitHub streak stats"
+            git push
+          fi
