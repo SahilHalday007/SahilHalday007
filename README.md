@@ -117,7 +117,14 @@ These links point to public repositories so you can explore the code.
 -->
 <br/><br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SahilHalday007&theme=violet-punch&hide_border=true&border_radius=3.4&ring=EB0000&fire=EB0000)](https://git.io/streak-stats)
+
+<a href="https://github.com/SahilHalday007/SahilHalday007">
+  <img
+    src="./profile/streak.svg"
+    alt="Sahil's GitHub Streak Statistics"
+  />
+</a>
+
 <br/></br>
 <img 
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahilHalday007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400"
