@@ -111,13 +111,20 @@ These links point to public repositories so you can explore the code.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SahilHalday007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub statistics" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=SahilHalday007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub statistics" />
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilHalday007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most used languages" />
-
+-->
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SahilHalday007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SahilHalday007&theme=violet-punch&hide_border=true&border_radius=3.4&ring=EB0000&fire=EB0000)](https://git.io/streak-stats)
+<br/></br>
+<img 
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=SahilHalday007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400"
+  width="450"
+  alt="Top Languages"
+/>
+
 
 </div>
 
